@@ -5,7 +5,7 @@
  3. 在大事件项目文件下：Ctrl+Shift+P 选择 "Express:Host Current Workspace and open in Browser"
  4. 直接登录（or 注册新账户）：  
   用户名：admin1 密码：123456
-##项目预览：
+## 项目预览
 1. 登录、注册页面  
 2. 首页
 3. 文章管理——文章类别（添加类别、展示类别功能）
