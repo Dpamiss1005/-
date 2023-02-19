@@ -1,10 +1,11 @@
-
+## 项目简介
+ 1. 此项目为大事件后台管理项目（仅用于node的使用及练习），使用node搭建服务器，实现**项目预览**中的一系列功能。
 ## 运行说明（vscode）
- 1. 运行 `npm i` 安装所有包
- 2. 在api_server文件下：`node app.js` 运行服务器
- 3. 在大事件项目文件下：Ctrl+Shift+P 选择 "Express:Host Current Workspace and open in Browser"
+ 1. 运行 `npm i` 安装所有包；
+ 2. 在api_server文件下：`node app.js` 运行服务器；
+ 3. 在大事件项目文件下：Ctrl+Shift+P 选择 "Express:Host Current Workspace and open in Browser"；
  4. 直接登录（or 注册新账户）：  
-  用户名：admin1 密码：123456
+  用户名：admin1 密码：123456 。
 ## 项目预览
 1. 登录、注册页面 
 ![](https://github.com/Dpamiss1005/The-Big-Things/blob/main/express_images/login.png)
